@@ -3,10 +3,6 @@ import "./main.css";
 import { motion } from "framer-motion";
 
 class Main extends Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     return (
       <main className="container">
