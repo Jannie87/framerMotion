@@ -1,6 +1,7 @@
 import { Component } from "react";
 import "./main.css";
 import Card from "./Card";
+import { motion } from "framer-motion";
 
 class Main extends Component {
   constructor(props) {
