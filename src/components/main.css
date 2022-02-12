@@ -1,0 +1,48 @@
+.container {
+  display: flex;
+  padding: 1rem;
+  column-gap: 1rem;
+  height: 100vh;
+  width: 100vw;
+}
+
+.round-boxes {
+  display: flex;
+}
+
+.one {
+  border-radius: 50%;
+  width: 20rem;
+  height: 20rem;
+  border-color: black;
+  background-color: pink;
+}
+
+.two {
+  border-radius: 50%;
+  width: 10rem;
+  height: 10rem;
+  border-color: black;
+  background-color: purple;
+}
+
+.three {
+  border-radius: 50%;
+  width: 15rem;
+  height: 15rem;
+  border-color: black;
+  background-color: magenta;
+}
+.four {
+  border-radius: 50%;
+  width: 10rem;
+  height: 10rem;
+  border-color: black;
+  background-color: violet;
+}
+
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column;
+  }
+}

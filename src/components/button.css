@@ -1,0 +1,8 @@
+button {
+  background-color: whitesmoke;
+  font-size: 1rem;
+  font-weight: bold;
+  color: magenta;
+  border-radius: 50%;
+  border: none;
+}

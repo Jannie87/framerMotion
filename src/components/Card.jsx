@@ -1,0 +1,7 @@
+import "./card.css";
+
+function Card(props) {
+  return <li className="card">{props.children}</li>;
+}
+
+export default Card;
