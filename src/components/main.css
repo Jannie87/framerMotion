@@ -1,10 +1,11 @@
 .container {
-  background-color: black;
   display: flex;
   padding: 1rem;
   column-gap: 1rem;
-  height: 80vh;
+  flex-grow: 1;
   width: 100vw;
+  height: 100vh;
+  cursor: pointer;
 }
 
 .round-boxes {
@@ -17,6 +18,7 @@
   height: 20rem;
   border-color: black;
   background-color: pink;
+  cursor: grabbing;
 }
 
 .two {
@@ -25,6 +27,7 @@
   height: 15rem;
   border-color: black;
   background-color: purple;
+  cursor: grabbing;
 }
 
 .three {
@@ -33,6 +36,7 @@
   height: 10rem;
   border-color: black;
   background-color: magenta;
+  cursor: grabbing;
 }
 .four {
   border-radius: 50%;
@@ -40,6 +44,7 @@
   height: 5rem;
   border-color: black;
   background-color: violet;
+  cursor: grabbing;
 }
 
 @media (max-width: 600px) {
