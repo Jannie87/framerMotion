@@ -5,9 +5,7 @@ function Header(props) {
   return (
     <header>
       <h1>Framer Motion</h1>
-      <Button onClick={props.onToggleList}>
-        {props.isListVisable ? "Hide" : "Show"}{" "}
-      </Button>
+      <Button />
     </header>
   );
 }
