@@ -9,6 +9,7 @@ header {
 
 h1 {
   margin: 0;
+  padding-top: 1rem;
 }
 
 @media (max-width: 600px) {

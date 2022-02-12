@@ -1,6 +1,8 @@
 import { Component } from "react";
 import Header from "./Header";
 import Main from "./Main";
+import Footer from "./Footer";
+import "./app.css";
 
 class App extends Component {
   constructor(props) {
@@ -15,11 +17,9 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Header
-          isListVisable={this.state.isListVisable}
-          onToggleList={this.toggleList}
-        />
-        <Main isListVisable={this.state.isListVisable} />
+        <Header />
+        <Main />
+        <Footer />
       </div>
     );
   }
