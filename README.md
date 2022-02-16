@@ -2,11 +2,15 @@ This is a simple codeexample with framework: <b> FramerMotion</b>
 
 <br>
 
-## 1. Install:
+## To run the project follow step 1 and 2 below:
+
+<br>
+
+### 1. Install:
 
 `npm install`
 
-## 2. Run the project:
+### 2. Run the project:
 
 `npm start`
 
