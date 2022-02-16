@@ -1,4 +1,6 @@
 This is a simple codeexample with framework: <b> FramerMotion</b>
+<em>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</em>
+
 <br>
 
 ## Install:
@@ -22,5 +24,3 @@ You may also see any lint errors in the console.
 `import { motion } from "framer-motion"`
 
 <br>
-
-<em>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</em>

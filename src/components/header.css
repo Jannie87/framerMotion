@@ -16,4 +16,7 @@ h1 {
   h1 {
     font-size: 1.5rem;
   }
+  .header em {
+    font-size: 0.8rem;
+  }
 }

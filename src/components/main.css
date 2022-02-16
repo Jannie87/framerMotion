@@ -6,8 +6,17 @@
   width: 100vw;
   height: 100vh;
   cursor: pointer;
+  flex-direction: column;
+  margin: auto;
+}
+.container span {
+  text-align: center;
 }
 
+.container em {
+  font-size: 1rem;
+  padding-bottom: 2rem;
+}
 .round-boxes {
   display: flex;
 }
@@ -19,6 +28,7 @@
   border-color: black;
   background-color: pink;
   cursor: grabbing;
+  position: absolute;
 }
 
 .two {
@@ -28,6 +38,7 @@
   border-color: black;
   background-color: purple;
   cursor: grabbing;
+  position: relative;
 }
 
 .three {
@@ -37,6 +48,7 @@
   border-color: black;
   background-color: magenta;
   cursor: grabbing;
+  position: relative;
 }
 .four {
   border-radius: 50%;
@@ -45,6 +57,7 @@
   border-color: black;
   background-color: violet;
   cursor: grabbing;
+  position: relative;
 }
 
 @media (max-width: 600px) {

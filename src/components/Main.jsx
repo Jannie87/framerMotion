@@ -6,6 +6,11 @@ class Main extends Component {
   render() {
     return (
       <main className="container">
+        <span>
+          <h2>Tap or drag the circles and watch !</h2>
+
+          <em> Pay attention to the purple one</em>
+        </span>
         <div className="round-boxes">
           <motion.div drag className="one" />
           <motion.div

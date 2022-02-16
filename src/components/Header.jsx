@@ -4,7 +4,12 @@ import "./header.css";
 function Header(props) {
   return (
     <header>
-      <h1>Framer Motion</h1>
+      <div className="header">
+        <h1>Framer Motion</h1>
+        <span>
+          <em> A simple example by: Jannie Bäckman Kuurne</em>
+        </span>
+      </div>
       <Button />
     </header>
   );
