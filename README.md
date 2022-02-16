@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 Install framerm motion
 
-#### import { motion } from "framer-motion"
+## import { motion } from "framer-motion"
 
 
 Add this import to your files.
