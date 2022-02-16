@@ -19,3 +19,18 @@
   background-color: white;
   border-radius: 2.5rem;
 }
+
+@media (max-width: 600px) {
+  .switch {
+    width: 6rem;
+    height: 3rem;
+    border-radius: 3rem;
+    padding: 0.3rem;
+  }
+
+  .handle {
+    width: 2.8rem;
+    height: 2.8rem;
+    border-radius: 2.5rem;
+  }
+}
