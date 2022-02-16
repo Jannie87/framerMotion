@@ -1,5 +1,5 @@
 
-This is a simple codeexample with FramerMotion
+This is a simple codeexample with framework: <b> FramerMotion</b>
 <br>
 
 ## Install:
