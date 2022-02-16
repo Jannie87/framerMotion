@@ -1,24 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+This is a simple codeexample with FramerMotion
+<br>
 
-In the project directory, you can run:
+## Install:
+`npm install framer-motion`
 
-### `npm start`
-
+## Run:
+`npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## `npm install framer-motion`
 
-Install framerm motion
+## Implement framerMotion:
 
-## import { motion } from "framer-motion"
+`import { motion } from "framer-motion"`
 
 
-Add this import to your files.
+
+
+<br>
+
+
+<em>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</em>
+
+
 
 
