@@ -26,4 +26,5 @@ You may also see any lint errors in the console.
 
 <br>
 
-<em> Devoloper: Jannie Bäckman Kuurne </em>
+<em> Devoloper: Jannie Bäckman Kuurne <br>
+https://github.com/Jannie87/framerMotion </em>
